@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "精密传感与智能检测实验室"
 author_profile: true
 redirect_from: 
   - /about/
